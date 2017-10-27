@@ -1,5 +1,5 @@
 {
-  "name": "CKEditor with MathJAX",
+  "name": "ckeditor-mathjax",
   "main": "ckeditor.js",
   "authors": [
     "Datta Bhise <db154@enovate-it.com>"
